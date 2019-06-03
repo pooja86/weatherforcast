@@ -1,0 +1,8 @@
+C:\Pooja\Training\Weatherforcast\weather.Utilities\bin\Debug\netcoreapp2.1\weather.Utilities.deps.json
+C:\Pooja\Training\Weatherforcast\weather.Utilities\bin\Debug\netcoreapp2.1\weather.Utilities.dll
+C:\Pooja\Training\Weatherforcast\weather.Utilities\bin\Debug\netcoreapp2.1\weather.Utilities.pdb
+C:\Pooja\Training\Weatherforcast\weather.Utilities\obj\Debug\netcoreapp2.1\weather.Utilities.csproj.CoreCompileInputs.cache
+C:\Pooja\Training\Weatherforcast\weather.Utilities\obj\Debug\netcoreapp2.1\weather.Utilities.AssemblyInfoInputs.cache
+C:\Pooja\Training\Weatherforcast\weather.Utilities\obj\Debug\netcoreapp2.1\weather.Utilities.AssemblyInfo.cs
+C:\Pooja\Training\Weatherforcast\weather.Utilities\obj\Debug\netcoreapp2.1\weather.Utilities.dll
+C:\Pooja\Training\Weatherforcast\weather.Utilities\obj\Debug\netcoreapp2.1\weather.Utilities.pdb
