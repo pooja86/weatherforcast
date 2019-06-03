@@ -1,0 +1,17 @@
+C:\Pooja\Training\Weatherforcast\Weatherforcast\bin\Debug\netcoreapp2.1\Weatherforcast.deps.json
+C:\Pooja\Training\Weatherforcast\Weatherforcast\bin\Debug\netcoreapp2.1\Weatherforcast.runtimeconfig.json
+C:\Pooja\Training\Weatherforcast\Weatherforcast\bin\Debug\netcoreapp2.1\Weatherforcast.runtimeconfig.dev.json
+C:\Pooja\Training\Weatherforcast\Weatherforcast\bin\Debug\netcoreapp2.1\Weatherforcast.dll
+C:\Pooja\Training\Weatherforcast\Weatherforcast\obj\Debug\netcoreapp2.1\Weatherforcast.csprojAssemblyReference.cache
+C:\Pooja\Training\Weatherforcast\Weatherforcast\obj\Debug\netcoreapp2.1\Weatherforcast.csproj.CoreCompileInputs.cache
+C:\Pooja\Training\Weatherforcast\Weatherforcast\obj\Debug\netcoreapp2.1\Weatherforcast.RazorAssemblyInfo.cache
+C:\Pooja\Training\Weatherforcast\Weatherforcast\obj\Debug\netcoreapp2.1\Weatherforcast.RazorAssemblyInfo.cs
+C:\Pooja\Training\Weatherforcast\Weatherforcast\obj\Debug\netcoreapp2.1\Weatherforcast.AssemblyInfoInputs.cache
+C:\Pooja\Training\Weatherforcast\Weatherforcast\obj\Debug\netcoreapp2.1\Weatherforcast.AssemblyInfo.cs
+C:\Pooja\Training\Weatherforcast\Weatherforcast\obj\Debug\netcoreapp2.1\Weatherforcast.RazorTargetAssemblyInfo.cache
+C:\Pooja\Training\Weatherforcast\Weatherforcast\bin\Debug\netcoreapp2.1\Weatherforcast.pdb
+C:\Pooja\Training\Weatherforcast\Weatherforcast\obj\Debug\netcoreapp2.1\Weatherforcast.dll
+C:\Pooja\Training\Weatherforcast\Weatherforcast\obj\Debug\netcoreapp2.1\Weatherforcast.pdb
+C:\Pooja\Training\Weatherforcast\Weatherforcast\bin\Debug\netcoreapp2.1\weather.Utilities.dll
+C:\Pooja\Training\Weatherforcast\Weatherforcast\bin\Debug\netcoreapp2.1\weather.Utilities.pdb
+C:\Pooja\Training\Weatherforcast\Weatherforcast\obj\Debug\netcoreapp2.1\Weatherforcast.csproj.CopyComplete
